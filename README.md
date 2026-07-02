@@ -1,4 +1,7 @@
-<h1 align="center">
+Obtenez des informations sur l'appareil sans aucune autorisation !
+Accès à la localisation [SMARTPHONES]
+Accès à la webcam
+Accès au microphone<h1 align="center">
   <br>
   <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="StormBreaker"></a>
 
